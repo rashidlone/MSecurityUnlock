@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:rashed="http://schemas.android.com/apk/res/com.rashedlone.msecurityunlock"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+        
+
+    
+    <PreferenceCategory
+            android:title="Unlock Settings">
+            
+        
+        
+          <CheckBoxPreference
+                android:key="ist_thing"
+                android:title="Enable Smart Unlock"
+                android:summaryOn="Smart Unlock is enabled."
+                android:summaryOff="Smart Unlock is disabled (not recommended)."
+                 />
+        
+      
+         <com.rashedlone.msecurityunlock.ImageListPreference
+                android:key="list_preference"
+                android:title="Choose Unlock Option"
+                android:entries="@array/listNames"
+		        android:entryValues="@array/listValues"
+                android:defaultValue="15"
+                rashed:entryImages="@array/imageValues"
+                android:dialogTitle="Unlock Phone When:" />
+       
+       <CheckBoxPreference
+                android:key="notify"
+                android:title="Show Running Notification"
+                android:dependency="ist_thing"
+                android:summaryOn="Notification is on."
+                android:summaryOff="Disabling this option can terminate the app by Ram booster apps. or OS, Keep enabled for better performance."
+                 />
+        
+          <CheckBoxPreference
+                android:key="status_no"
+                android:title="Erase Settings after Unlock"
+                android:defaultValue="true"
+                android:widgetLayout="@layout/check_box_pro"
+                android:summaryOn="Saved settings will be deleted, Only premium version of this app saves your settings permanently."
+                android:summaryOff="Your settings will not be altered." />
+        
+            
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="Remote Unlock Setting (Pro)">
+        
+        <CheckBoxPreference
+                android:key="remote_unlock"
+                android:title="Enable Remote Unlock"
+                android:widgetLayout="@layout/check_box_pro"
+                android:summaryOff="Enable to unlock your device remotely."
+                android:summaryOn="Phone will be unlocked remotely." />
+        
+
+        <EditTextPreference
+                android:key="remote_unlock_number"
+                android:title="Enter Remote Unlock Device ID "
+                android:dependency="remote_unlock"
+                android:summary="Enter the device ID whom you want to unlock this phone with."
+                android:dialogTitle="Enter Device ID (imei no.)" />
+        
+        </PreferenceCategory>
+         <PreferenceCategory
+            android:title="Mobile Data Settings (Pro)">
+       
+        
+        <CheckBoxPreference
+                android:key="remote_unlock_data"
+                android:title="Enable Mobile Data"
+                android:widgetLayout="@layout/check_box_pro"
+                android:summaryOff="Enable to automatically activate Mobile data on boot."
+                android:summaryOn="Your mobile data will be automatically enabled on every boot." />
+        
+
+       
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+            android:title="Voice Call Unlock Setting (Pro)">
+        
+        <CheckBoxPreference
+                android:key="voice_unlock"
+                android:title="Enable Voice Call Unlock"
+                android:widgetLayout="@layout/check_box_pro"
+                android:summaryOff="Enable to unlock device when you receive a call."
+                android:summaryOn="Your device will be unlocked when you get a call from the number entered below." />
+        
+
+        <EditTextPreference
+                android:key="voice_unlock_number"
+                android:title="Set Phone Number"
+                android:dependency="voice_unlock"
+                android:summary="Enter a phone number you want to unlock this phone with. Please include '+' sign and country code. e.g +919xxxxxxxxx"
+                android:dialogTitle="Enter Phone Number" />
+        
+        <CheckBoxPreference
+                android:key="auto_disconnect"
+                android:title="Auto Disconnect Call"
+                android:widgetLayout="@layout/check_box_pro"
+                android:dependency="voice_unlock"
+                android:defaultValue="true"
+                android:summaryOn="When you get a call from the set voice call unlock number, the call will be automatically disconnected."
+                android:summaryOff="You can manually disconnect the call." />
+        
+     
+       
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+            android:title="Sensor Settings (Pro)">
+        
+        <CheckBoxPreference
+                android:key="sensor_unlock"
+                android:title="Enable Sensor Unlock"
+                android:widgetLayout="@layout/check_box_pro"
+                android:summaryOff="Enable to unlock this Phone when proximity sensor is covered."
+                android:summaryOn="When you cover proximity sensor, your device will be unlocked." />
+        
+       
+       
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+            android:title=""
+            android:key="hyhy">
+
+         <CheckBoxPreference
+                android:key="status_bar"
+                android:title=""
+                android:summary=""
+                android:defaultValue="false" />
+        
+         </PreferenceCategory>
+         
+     <PreferenceCategory
+            android:title="Custom UI"
+            android:key="UI_pro">
+
+
+         <com.rashedlone.msecurityunlock.ImageList
+             android:key="ab_color"
+             android:title="Action Bar Color"
+             android:entries="@array/colorNameList"
+             android:entryValues="@array/colorValueList"
+             android:defaultValue="#ff2233"
+             rashed:entryImage="@array/imageValues"
+             android:summary="Choose a color for ActionBar."
+             />
+
+         <CheckBoxPreference
+                android:key="play_sound"
+                android:title="Play Switch On/Off Sound"
+                android:summary="Enable or disable Switch On/Off sound in Main Activity."
+                android:defaultValue="true"/>
+
+         <ListPreference
+                android:key="color_pref"
+                android:title="Change Background Image"
+                android:entries="@array/colorNames"
+		        android:entryValues="@array/colorValues"
+                android:defaultValue="0"
+                android:dialogTitle="Choose Background Image:"
+                android:summary="Customize background view of app.\nNote: App. will auto-restart." />
+       
+                
+             </PreferenceCategory>
+        
+    
+     <PreferenceCategory
+            android:title="Debug"
+            android:key="restore_default">
+        
+         
+          <CheckBoxPreference
+                android:title="Restore to default"
+                android:key="restore"
+                android:layout="@layout/intent"
+                android:summary="Restore all settings to default."
+
+        />
+     
+        
+        <CheckBoxPreference
+                android:title="Help to Debug"
+                android:defaultValue="true"
+                android:summaryOn="Error logs, crashes and bug reports will be sent to developer for debug."
+                android:summaryOff="Enable to support development and report crashes, errors and bugs for better performance." />
+       
+        
+    </PreferenceCategory>
+    
+     <PreferenceCategory
+            android:title="Support Development"
+            android:key="is_pro">
+
+        
+         <PreferenceScreen
+                android:title="Go Premium"
+                android:key="pro_version"
+                android:summary="Unlock all premium features and support development.">
+
+           
+        </PreferenceScreen>
+        </PreferenceCategory>
+        
+                
+           
+    <PreferenceCategory
+            android:title="About">
+
+        
+         <PreferenceScreen
+                android:title="Author"
+                android:key="try"
+                android:widgetLayout="@layout/author"
+                android:summary="Rashed Lone">
+
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://fb.com/rashed.lone.official" />
+
+        </PreferenceScreen>
+        
+          <PreferenceScreen
+                android:title="Beta Developers Inc."
+                android:summary="Visit our official site">
+
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.betadevelopers.in" />
+
+        </PreferenceScreen>
+        
+          <PreferenceScreen
+                android:title="Version"
+                android:key="version">
+
+
+
+        </PreferenceScreen>
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:id="@+id/ll2"
+    android:paddingLeft="10dp">
+				
+ 
+    
+    
+    <CheckedTextView  
+        android:checkMark="@android:drawable/btn_radio"
+        android:id="@+id/check"
+        android:layout_height="wrap_content"
+		android:layout_width="0dp"
+		android:layout_gravity="center"
+		android:layout_weight="7"
+         />
+    
+    <ImageView
+        android:layout_height="fill_parent"
+		android:layout_width="0dp"
+	    android:layout_weight="1"
+	    android:layout_gravity="center"
+	    android:visibility="invisible"
+        android:src="@drawable/prime"
+         />
+    
+     
+				</LinearLayout>
+    
+ 

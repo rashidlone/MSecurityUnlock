@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit_click.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_exit_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_usage.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_usage.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_about_click.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_about_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_click.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_click.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_home_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_usage_click.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_usage_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
+        "source": "C:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    }
+]

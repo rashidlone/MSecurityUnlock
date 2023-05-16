@@ -1,0 +1,7 @@
+#Tue Mar 21 09:19:28 IST 2017
+base.0=C\:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6e62b214cce62c3549e4879c4cb486a97ec2954b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2d1009ee11977ea49729ada303b7e93473c776c\\classes.dex
+base.1=C\:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2d1009ee11977ea49729ada303b7e93473c776c
+file.0=C\:\\Users\\Rashedlone0\\AndroidProjects\\MSec\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6e62b214cce62c3549e4879c4cb486a97ec2954b\\classes.dex

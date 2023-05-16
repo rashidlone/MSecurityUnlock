@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/sce"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ab_color_back" >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+			android:id="@+id/a"
+            >
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/msecurity_main"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/text_color"
+        android:typeface="monospace" />
+     
+           <ImageButton
+         android:id="@+id/btn"
+         android:contentDescription="@string/app_name"
+         android:layout_below="@id/txt"
+         android:layout_width="wrap_content"
+         android:layout_marginBottom="10dp"
+         android:layout_height="wrap_content"
+         android:layout_centerHorizontal="true"
+					
+         
+         />
+
+
+
+				<TextView
+					android:id="@+id/method"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:lines="1"
+					android:layout_below="@+id/btn"
+					android:gravity="center"
+					android:textSize="12sp"
+					android:textColor="@color/text_color" 
+					android:padding="12dp"/>
+
+
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/method"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+
+		</RelativeLayout>
+
+
+
+
+
+</ScrollView>

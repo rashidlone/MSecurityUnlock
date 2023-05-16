@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\Videos\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_0dfcd615c4a8cbfe263c1db814675e32745b322b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_015e004f16d95606e02063ce33170658d72fd575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_050db3bca5054d428a7f641df198d9922aa2fb6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_84c0ee5b807b6d39ed96f85572b5819c7c9ea83a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_50ea4625d6b40fbb70d2de13252162d8c20b9c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_78af33bafaddacdd9203977db74c6771e5218014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_241db82eeb343e7e4818c8edcbe1aa510002efa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_975ca02ed8b7fc28ca6bfc2ff45959bbf231ea99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_4963658e498b2ee809b3e286d5f3a93e10ed06e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f20090dd736abfe9f327dde408298013413548f1">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a2d1009ee11977ea49729ada303b7e93473c776c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_8b4f8f6041a2830d5fe0f5c52a8b4f208d4eca44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="390e3b4f5fe0a4852e03ac3f219cabc90069be82">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6e62b214cce62c3549e4879c4cb486a97ec2954b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b1035362d03b7e9969de8ac333bb31179ffc5222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_73d047073fd8f0187a68e12782776cef7091e447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_36e7c6fa2203c3bf40ddd66e05a8e889082e4c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_be33b57493ee325498a110a5cbce8bd77d233423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_883dd0050b46aa17db7982846799fd72aa9ae99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9ee2670570845e910d1ce6ad6742552df94cf08f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_490b67a9e0a1359faaf7fe5881e3ac4c3218be63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_af5eec46ff2fe6637abfa7185f6979792e014cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_10e25846f8d7b288aaa5d31210939a1b8e9acdc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_218423390cce0245527f88da401dd3ad7f5852b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_917b7792af2ce5b6d49d33d5eba1c9ae9895a309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_de30516bdd142b1d5f124203b299439a79613484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Rashedlone0\AndroidProjects\MSec\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_ac93980ecda046a733313d433a677364bf75d7a9\classes.dex" />
+    </item>
+
+</items>
